@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WorkTime</string>
+    <string name="choose_date">Choose date</string>
+    <string name="ready">Ok</string>
+    <string name="choose_time">Choose time</string>
+</resources>
